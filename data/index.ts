@@ -205,16 +205,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      link: "https://github.com/adrianhajdin/zoom-clone"
+      link: "https://github.com/imUmer"
     },
     {
       id: 2,
       img: "/twit.svg",
-      link: "https://github.com/adrianhajdin/zoom-clone"
+      link: "https://github.com/imUmer"
     },
     {
       id: 3,
       img: "/link.svg",
-      link: "https://github.com/adrianhajdin/zoom-clone"
+      link: "https://github.com/imUmer"
     },
   ];
