@@ -174,7 +174,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Mobile App Dev",
+      title: "Mobile App Dev - Freelance",
       desc: "Designed and developed mobile app for Android platforms using React Native.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
