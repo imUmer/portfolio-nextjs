@@ -167,7 +167,7 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: ".Net Web Developer Intern",
+      title: ".Net Web Developer Intern - Northbay Solutions",
       desc: "Assisted in the development of a web-based platform using React.js and DotNet Core for enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
